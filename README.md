@@ -8,6 +8,8 @@
 
 Enable real-time high-precision mapping by using a Mid-40 LiDAR with a detection distance of 260m, an accuracy of 2cm, and a non-repetitive scanning pattern, combined with the high-precision position and attitude data provided by the APX-15 inertial navigation module. 
 
+完全利用惯导提供位姿，没有雷达里程计。
+
 The following two pictures show the real-time renderings:
 
 
